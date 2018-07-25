@@ -12,6 +12,7 @@
 		4E335F082104CD0E004C12A0 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4E335F062104CD0E004C12A0 /* Main.storyboard */; };
 		4E335F0A2104CD12004C12A0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4E335F092104CD12004C12A0 /* Assets.xcassets */; };
 		4E335F0D2104CD12004C12A0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4E335F0B2104CD12004C12A0 /* LaunchScreen.storyboard */; };
+		4E335F172104CD73004C12A0 /* beer.png in Resources */ = {isa = PBXBuildFile; fileRef = 4E335F162104CD73004C12A0 /* beer.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		4E335F092104CD12004C12A0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4E335F0C2104CD12004C12A0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		4E335F0E2104CD12004C12A0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4E335F162104CD73004C12A0 /* beer.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = beer.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 		4E335F012104CD0E004C12A0 /* Catch The Beer */ = {
 			isa = PBXGroup;
 			children = (
+				4E335F162104CD73004C12A0 /* beer.png */,
 				4E335F022104CD0E004C12A0 /* AppDelegate.swift */,
 				4E335F042104CD0E004C12A0 /* ViewController.swift */,
 				4E335F062104CD0E004C12A0 /* Main.storyboard */,
@@ -123,6 +126,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				4E335F0D2104CD12004C12A0 /* LaunchScreen.storyboard in Resources */,
+				4E335F172104CD73004C12A0 /* beer.png in Resources */,
 				4E335F0A2104CD12004C12A0 /* Assets.xcassets in Resources */,
 				4E335F082104CD0E004C12A0 /* Main.storyboard in Resources */,
 			);
